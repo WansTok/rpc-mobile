@@ -1,0 +1,35 @@
+{
+    "status": "idle",
+
+    "settings": {
+        "game": {
+            "name": "QuickEdit",
+            "applicationID": "963645702133645312",
+            "state": " Editing Wans999.pwn",
+            "details": " Working On Second Version",
+            "largeImageKey": "large",
+            "largeImageText": "images",
+            "startTimestamp": "",
+            "endTimestamp": ""
+        },
+        "twitch": {
+            "name": "st ",
+            "applicationID": "957716304427618474",
+            "url": "https://twitch.tv/btssmash",
+            "state": "First line",
+            "details": "",
+            "largeImageKey": "large",
+            "largeImageText": "",
+            "startTimestamp": "",
+            "endTimestamp": ""
+        },
+        "spotify": {
+            "name": "Chill lofi",
+            "details": "x",
+            "largeImageKey": "spotify:ab67706c0000bebb9816716b4f43767708de1db8",
+            "largeImageText": "a",
+            "startTimestamp": 929927100172,
+            "endTimestamp": 8282827288228
+        }
+    }
+}
